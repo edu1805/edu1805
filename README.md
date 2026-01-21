@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Sobre mim
 
-<!--
-**edu1805/edu1805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e por criar soluções que realmente façam a diferença.
+Tenho experiência no desenvolvimento de APIs REST, aplicação de boas práticas de arquitetura (Clean Architecture) e uso de tecnologias modernas para construção de sistemas escaláveis e bem estruturados.
+Ao longo da minha formação e projetos práticos, desenvolvi habilidades sólidas em Python, TypeScript, React, Java e .NET, além de experiência com bancos de dados relacionais e não relacionais, computação em nuvem, IoT e desenvolvimento mobile.
+Sou movido por aprendizado contínuo, organização de código e soluções orientadas a dados.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Linguagens mais utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edu1805&layout=compact&theme=dark)
+
