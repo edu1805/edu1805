@@ -1,4 +1,4 @@
-# 👋 Sobre mim
+<h1 align="center">👋 Sobre mim</h1>
 
 Sou formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e por criar soluções que realmente façam a diferença.
 Tenho experiência no desenvolvimento de APIs REST, aplicação de boas práticas de arquitetura (Clean Architecture) e uso de tecnologias modernas para construção de sistemas escaláveis e bem estruturados.
@@ -7,7 +7,10 @@ Sou movido por aprendizado contínuo, organização de código e soluções orie
 
 ---
 
-## 📊 Linguagens mais utilizadas
+<h2 align="center">📊 Linguagens mais utilizadas</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edu1805&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu1805&layout=compact&theme=dark&cache_seconds=0" />
+</p>
+
 
